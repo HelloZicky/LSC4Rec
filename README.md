@@ -5,7 +5,12 @@ This is the implementation of the "Collaborative LLMs and Small Recommender Mode
 
 ---
 ### LLM&SRM Independent Training
-bash train.sh 大模型t-2训练，
+> LLM
+
+bash train.sh 
+
+> SRM
+
 bash train_small.sh 小模型t-2训练，
 ---
 ### LLM&SRM Collaborative Training
