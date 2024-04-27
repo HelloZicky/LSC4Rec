@@ -11,10 +11,10 @@ bash train.sh
 
 > SRM
 
-bash train_small.sh 小模型t-2训练，
+bash train_small.sh
 ---
 ### LLM&SRM Collaborative Training
-bash train_collaboration.sh 融合t-2训练,
+bash train_collaboration.sh 
 
 ---
 ### SRM Real-time Retraining
