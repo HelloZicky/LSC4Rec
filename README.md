@@ -4,7 +4,8 @@
 
 This is the implementation of the "Collaborative LLMs and Small Recommender Models for Device-Cloud Recommendation"
 
-Citation
+---
+### Citation
 
 ```
 @inproceedings{lv2025collaboration,
