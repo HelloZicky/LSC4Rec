@@ -4,6 +4,31 @@
 
 This is the implementation of the "Collaborative LLMs and Small Recommender Models for Device-Cloud Recommendation"
 
+Citation
+
+```
+@inproceedings{lv2025collaboration,
+  author       = {Zheqi Lv and
+                  Tianyu Zhan and
+                  Wenjie Wang and
+                  Xinyu Lin and
+                  Shengyu Zhang and
+                  Wenqiao Zhang and
+                  Jiwei Li and
+                  Kun Kuang and
+                  Fei Wu},
+  title        = {Collaboration of Large Language Models and Small Recommendation Models
+                  for Device-Cloud Recommendation},
+  booktitle    = {Proceedings of the 31st {ACM} {SIGKDD} Conference on Knowledge Discovery
+                  and Data Mining, V.1, {KDD} 2025, Toronto, ON, Canada, August 3-7,
+                  2025},
+  pages        = {962--973},
+  publisher    = {{ACM}},
+  year         = {2025},
+  url          = {https://doi.org/10.1145/3690624.3709335},
+  doi          = {10.1145/3690624.3709335},
+}
+```
 
 ---
 ### LLM&SRM Independent Training
